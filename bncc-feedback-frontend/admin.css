@@ -31,7 +31,9 @@ body {
 .table .badge {
   font-size: 12px;
 }
-
+.star-rating input {
+  margin-right: 10px; /
+}
 /* Active Page */
 .pagination .page-item.active .page-link {
   background-color: #2374ff;
@@ -174,4 +176,5 @@ button[type="button"]:hover {
   .pagination .page-item {
     font-size: 12px;
   }
+
 }
